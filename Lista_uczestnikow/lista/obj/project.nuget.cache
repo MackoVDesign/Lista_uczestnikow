@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "cbMiZfXfLhUtCFsTS9qkoIBQuwepCfU2OopjkxTAau7X1kcpl35h+2w3BbQhE4uudllX9/M1E+/fpbAeys0Vng==",
+  "success": true,
+  "projectFilePath": "E:\\Maciek\\SZKOŁA\\PROGRAMOWANIE APLIKACJI\\LISTA\\lista-master\\lista\\lista.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Blakeful\\.nuget\\packages\\microsoft.data.sqlite\\7.0.1\\microsoft.data.sqlite.7.0.1.nupkg.sha512",
+    "C:\\Users\\Blakeful\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.1\\microsoft.data.sqlite.core.7.0.1.nupkg.sha512",
+    "C:\\Users\\Blakeful\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Blakeful\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Blakeful\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Blakeful\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\Blakeful\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

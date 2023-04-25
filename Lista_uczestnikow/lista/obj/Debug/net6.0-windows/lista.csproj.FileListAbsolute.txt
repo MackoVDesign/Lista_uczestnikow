@@ -1,0 +1,7 @@
+E:\Maciek\SZKOŁA\PROGRAMOWANIE APLIKACJI\LISTA\lista-master\lista\obj\Debug\net6.0-windows\lista.csproj.AssemblyReference.cache
+E:\Maciek\SZKOŁA\PROGRAMOWANIE APLIKACJI\LISTA\lista-master\lista\obj\Debug\net6.0-windows\lista.Form1.resources
+E:\Maciek\SZKOŁA\PROGRAMOWANIE APLIKACJI\LISTA\lista-master\lista\obj\Debug\net6.0-windows\lista.csproj.GenerateResource.cache
+E:\Maciek\SZKOŁA\PROGRAMOWANIE APLIKACJI\LISTA\lista-master\lista\obj\Debug\net6.0-windows\lista.GeneratedMSBuildEditorConfig.editorconfig
+E:\Maciek\SZKOŁA\PROGRAMOWANIE APLIKACJI\LISTA\lista-master\lista\obj\Debug\net6.0-windows\lista.AssemblyInfoInputs.cache
+E:\Maciek\SZKOŁA\PROGRAMOWANIE APLIKACJI\LISTA\lista-master\lista\obj\Debug\net6.0-windows\lista.AssemblyInfo.cs
+E:\Maciek\SZKOŁA\PROGRAMOWANIE APLIKACJI\LISTA\lista-master\lista\obj\Debug\net6.0-windows\lista.csproj.CoreCompileInputs.cache
